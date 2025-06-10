@@ -12,5 +12,5 @@ export default defineConfig({
     host: true,
     port: 5173
   },
-  base: '/DragAndDrop_client/'
+  base: '/DragAndDrop_client'
 })
